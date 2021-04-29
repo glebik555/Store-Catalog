@@ -1,0 +1,13 @@
+
+p{
+    font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+    font-size: 20pt; /* Размер основного шрифта в пунктах  */
+    color: rgb(39, 68, 231); /* Цвет основного текста */
+}
+.hidden {
+    display: none;
+  }
+
+
+
+

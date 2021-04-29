@@ -1,0 +1,22 @@
+div{
+    font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    background-color: rgb(166, 177, 65); /* Цвет фона веб-страницы */
+    color: rgb(204, 131, 21); /* Цвет основного текста */ 
+  }
+
+p{
+    font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+    font-size: 20pt; /* Размер основного шрифта в пунктах  */
+    color: rgb(39, 68, 231); /* Цвет основного текста */
+}
+
+a{
+  font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+  font-size: 14pt; /* Размер основного шрифта в пунктах  */
+  color: rgb(201, 27, 71); /* Цвет основного текста */
+}
+
+
+
+
